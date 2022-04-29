@@ -1,0 +1,34 @@
+# Nombre del proyecto: PruebaIT
+
+# Version: 1.0
+
+***Descripcion***
+
+Api rest para la realización de ingresos de caracteres numericos y alfanumericos,
+
+***Funciones***
+
+CRUD: Modificar, Eliminar, Editar, Mostrar
+
+
+# Datos de funciónamiento
+
+***Conecion al servidor***
+
+1. SERVIDOR DE DESARROLLO: Xampp
+
+2. HOST: 127.0.0.1
+
+3. PORT: 3306
+
+***Base de datos***
+
+1. NOMBRE DB: prueba
+
+2. CANTIDAD DE TABLAS: 1
+
+3. TABLA test columnas: id(PRIMARY), a, b
+
+4. LIBRERIAS: bootstrap@5.0.2, jquery-3.5.1.js
+
+
